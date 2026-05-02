@@ -6,5 +6,4 @@ mov=input('Enter the third movie:')
 movies.append(mov)
 mov3=input('Enter the fourth movie:')
 movies.append(mov3)
-
 print(movies)
