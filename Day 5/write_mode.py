@@ -1,0 +1,7 @@
+#f=open("D:\90 days AI Ml\Day 5\Demo.txt","w")
+#f.write("ram")
+#f.close()
+f=open("D:\90 days AI Ml\Day 5\Demo.txt","r+")
+f.write("jay hanuman")
+print(f.read())
+f.close()
