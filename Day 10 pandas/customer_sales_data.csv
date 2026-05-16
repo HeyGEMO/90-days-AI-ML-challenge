@@ -1,0 +1,51 @@
+Order ID,Customer ID,Customer Name,Email,Phone,Region,Country,Product Category,Product Name,Quantity,Unit Price,Discount (%),Total Amount,Order Date,Ship Date,Payment Method,Order Status
+ORD-1001,CUST-201,Alice Johnson,alice.johnson@email.com,+1-555-0101,North America,USA,Electronics,Wireless Headphones,2,89.99,10,161.98,2024-01-05,2024-01-08,Credit Card,Delivered
+ORD-1002,CUST-202,Bob Smith,bob.smith@email.com,+1-555-0102,North America,Canada,Clothing,Winter Jacket,1,149.99,0,149.99,2024-01-07,2024-01-11,PayPal,Delivered
+ORD-1003,CUST-203,Clara Lee,clara.lee@email.com,+44-20-5550103,Europe,UK,Home & Kitchen,Coffee Maker,1,59.99,5,56.99,2024-01-10,2024-01-14,Debit Card,Delivered
+ORD-1004,CUST-204,David Müller,david.muller@email.com,+49-30-5550104,Europe,Germany,Sports,Yoga Mat,3,25.00,0,75.00,2024-01-12,2024-01-16,Credit Card,Delivered
+ORD-1005,CUST-205,Emma Nguyen,emma.nguyen@email.com,+61-2-5550105,Asia Pacific,Australia,Beauty,Skincare Set,2,45.00,15,76.50,2024-01-14,2024-01-19,Credit Card,Delivered
+ORD-1006,CUST-206,Frank Rossi,frank.rossi@email.com,+39-06-5550106,Europe,Italy,Food & Beverages,Olive Oil Pack,4,18.99,0,75.96,2024-01-15,2024-01-20,Bank Transfer,Delivered
+ORD-1007,CUST-207,Grace Kim,grace.kim@email.com,+82-2-5550107,Asia Pacific,South Korea,Electronics,Smartwatch,1,199.99,20,159.99,2024-01-18,2024-01-23,Credit Card,Delivered
+ORD-1008,CUST-208,Hiro Tanaka,hiro.tanaka@email.com,+81-3-5550108,Asia Pacific,Japan,Books,Business Strategy Set,5,12.99,0,64.95,2024-01-20,2024-01-25,PayPal,Delivered
+ORD-1009,CUST-209,Isabella Garcia,isabella.garcia@email.com,+34-91-5550109,Europe,Spain,Toys,LEGO Set,1,79.99,10,71.99,2024-01-22,2024-01-27,Credit Card,Delivered
+ORD-1010,CUST-210,James Wilson,james.wilson@email.com,+1-555-0110,North America,USA,Electronics,Laptop Stand,2,34.99,0,69.98,2024-01-25,2024-01-29,Debit Card,Delivered
+ORD-1011,CUST-201,Alice Johnson,alice.johnson@email.com,+1-555-0101,North America,USA,Books,Python Programming,1,39.99,0,39.99,2024-02-02,2024-02-06,Credit Card,Delivered
+ORD-1012,CUST-211,Karen Patel,karen.patel@email.com,+91-22-5550111,Asia Pacific,India,Clothing,Formal Shirt,3,29.99,5,85.47,2024-02-04,2024-02-09,PayPal,Delivered
+ORD-1013,CUST-212,Liam O'Brien,liam.obrien@email.com,+353-1-5550112,Europe,Ireland,Home & Kitchen,Air Fryer,1,89.99,0,89.99,2024-02-06,2024-02-11,Credit Card,Delivered
+ORD-1014,CUST-213,Mei Zhang,mei.zhang@email.com,+86-10-5550113,Asia Pacific,China,Beauty,Hair Care Kit,2,35.00,10,63.00,2024-02-08,2024-02-13,Alipay,Delivered
+ORD-1015,CUST-214,Noah Brown,noah.brown@email.com,+1-555-0114,North America,USA,Sports,Running Shoes,1,120.00,0,120.00,2024-02-10,2024-02-14,Credit Card,Delivered
+ORD-1016,CUST-215,Olivia Martinez,olivia.martinez@email.com,+52-55-5550115,Latin America,Mexico,Food & Beverages,Protein Powder,2,49.99,0,99.98,2024-02-12,2024-02-17,Debit Card,Delivered
+ORD-1017,CUST-216,Pedro Alves,pedro.alves@email.com,+55-11-5550116,Latin America,Brazil,Electronics,Bluetooth Speaker,1,59.99,15,50.99,2024-02-14,2024-02-19,Credit Card,Delivered
+ORD-1018,CUST-217,Quinn Adams,quinn.adams@email.com,+1-555-0117,North America,Canada,Toys,Board Game,2,24.99,0,49.98,2024-02-16,2024-02-20,PayPal,Delivered
+ORD-1019,CUST-218,Rita Singh,rita.singh@email.com,+91-11-5550118,Asia Pacific,India,Clothing,Saree,1,89.99,5,85.49,2024-02-18,2024-02-23,UPI,Delivered
+ORD-1020,CUST-219,Samuel Johnson,samuel.j@email.com,+1-555-0119,North America,USA,Home & Kitchen,Robot Vacuum,1,249.99,10,224.99,2024-02-20,2024-02-25,Credit Card,Delivered
+ORD-1021,CUST-220,Tina Choi,tina.choi@email.com,+82-2-5550120,Asia Pacific,South Korea,Beauty,Sheet Mask Pack,10,3.50,0,35.00,2024-02-22,2024-02-27,Credit Card,Delivered
+ORD-1022,CUST-203,Clara Lee,clara.lee@email.com,+44-20-5550103,Europe,UK,Electronics,USB-C Hub,1,49.99,0,49.99,2024-02-24,2024-02-28,Debit Card,Shipped
+ORD-1023,CUST-221,Uma Sharma,uma.sharma@email.com,+91-80-5550121,Asia Pacific,India,Books,Data Science Guide,2,29.99,0,59.98,2024-03-01,2024-03-06,PayPal,Delivered
+ORD-1024,CUST-222,Victor Dupont,victor.dupont@email.com,+33-1-5550122,Europe,France,Food & Beverages,Wine Gift Set,1,75.00,0,75.00,2024-03-03,2024-03-08,Credit Card,Delivered
+ORD-1025,CUST-223,Wendy Hall,wendy.hall@email.com,+1-555-0123,North America,USA,Sports,Dumbbell Set,1,89.99,10,80.99,2024-03-05,2024-03-09,Credit Card,Delivered
+ORD-1026,CUST-224,Xander Liu,xander.liu@email.com,+65-5550124,Asia Pacific,Singapore,Electronics,Gaming Mouse,1,69.99,5,66.49,2024-03-07,2024-03-12,PayPal,Delivered
+ORD-1027,CUST-225,Yara Al-Rashid,yara.rashid@email.com,+971-4-5550125,Middle East,UAE,Clothing,Abaya,2,59.99,0,119.98,2024-03-09,2024-03-14,Credit Card,Delivered
+ORD-1028,CUST-226,Zoe Thompson,zoe.thompson@email.com,+61-3-5550126,Asia Pacific,Australia,Home & Kitchen,Essential Oil Diffuser,1,39.99,0,39.99,2024-03-11,2024-03-16,Debit Card,Delivered
+ORD-1029,CUST-207,Grace Kim,grace.kim@email.com,+82-2-5550107,Asia Pacific,South Korea,Clothing,Sneakers,1,85.00,20,68.00,2024-03-13,2024-03-18,Credit Card,Delivered
+ORD-1030,CUST-227,Aaron White,aaron.white@email.com,+1-555-0127,North America,USA,Electronics,Webcam HD,2,44.99,0,89.98,2024-03-15,2024-03-19,Credit Card,Shipped
+ORD-1031,CUST-228,Bella Rossi,bella.rossi@email.com,+39-02-5550128,Europe,Italy,Beauty,Perfume,1,120.00,10,108.00,2024-03-17,2024-03-22,Credit Card,Delivered
+ORD-1032,CUST-229,Carlos Mendez,carlos.m@email.com,+52-33-5550129,Latin America,Mexico,Sports,Football,2,29.99,0,59.98,2024-03-19,2024-03-24,Debit Card,Delivered
+ORD-1033,CUST-214,Mei Zhang,mei.zhang@email.com,+86-10-5550113,Asia Pacific,China,Electronics,Power Bank,3,25.99,0,77.97,2024-03-21,2024-03-26,Alipay,Processing
+ORD-1034,CUST-230,Diana Prince,diana.p@email.com,+1-555-0130,North America,USA,Home & Kitchen,Stand Mixer,1,299.99,15,254.99,2024-03-22,2024-03-27,Credit Card,Delivered
+ORD-1035,CUST-231,Ethan Clark,ethan.clark@email.com,+44-161-5550131,Europe,UK,Books,Fiction Novel Pack,3,14.99,5,42.72,2024-03-24,2024-03-29,PayPal,Delivered
+ORD-1036,CUST-232,Fatima Hassan,fatima.h@email.com,+20-2-5550132,Middle East,Egypt,Clothing,Casual Dress,2,39.99,10,71.98,2024-03-26,2024-03-31,Credit Card,Shipped
+ORD-1037,CUST-210,James Wilson,james.wilson@email.com,+1-555-0110,North America,USA,Electronics,Noise-Cancel Earbuds,1,129.99,0,129.99,2024-04-01,2024-04-05,Debit Card,Delivered
+ORD-1038,CUST-233,Gabriela Lima,gabriela.l@email.com,+55-21-5550133,Latin America,Brazil,Beauty,Makeup Palette,1,55.00,0,55.00,2024-04-03,2024-04-08,Credit Card,Delivered
+ORD-1039,CUST-234,Henry Ford,henry.ford@email.com,+1-555-0134,North America,USA,Sports,Bicycle Helmet,1,59.99,0,59.99,2024-04-05,2024-04-09,Credit Card,Delivered
+ORD-1040,CUST-235,Iris Nakamura,iris.n@email.com,+81-6-5550135,Asia Pacific,Japan,Home & Kitchen,Rice Cooker,1,79.99,5,75.99,2024-04-07,2024-04-12,PayPal,Delivered
+ORD-1041,CUST-236,Jack Turner,jack.turner@email.com,+1-555-0136,North America,Canada,Electronics,Smart TV 55",1,699.99,10,629.99,2024-04-09,2024-04-15,Credit Card,Delivered
+ORD-1042,CUST-237,Kira Svensson,kira.s@email.com,+46-8-5550137,Europe,Sweden,Clothing,Denim Jeans,2,69.99,0,139.98,2024-04-11,2024-04-16,Debit Card,Delivered
+ORD-1043,CUST-238,Leo Fernandez,leo.f@email.com,+34-93-5550138,Europe,Spain,Food & Beverages,Gourmet Chocolate Box,3,22.99,0,68.97,2024-04-13,2024-04-18,Credit Card,Processing
+ORD-1044,CUST-215,Olivia Martinez,olivia.martinez@email.com,+52-55-5550115,Latin America,Mexico,Home & Kitchen,Blender,1,49.99,5,47.49,2024-04-15,2024-04-20,Debit Card,Delivered
+ORD-1045,CUST-239,Mia Hoffman,mia.h@email.com,+49-89-5550139,Europe,Germany,Sports,Tennis Racket,1,89.99,10,80.99,2024-04-17,2024-04-22,PayPal,Delivered
+ORD-1046,CUST-240,Nathan Brooks,nathan.b@email.com,+1-555-0140,North America,USA,Books,Self-Help Collection,4,19.99,0,79.96,2024-04-19,2024-04-23,Credit Card,Delivered
+ORD-1047,CUST-241,Nour Al-Amin,nour.amin@email.com,+966-11-5550141,Middle East,Saudi Arabia,Electronics,Tablet 10",1,349.99,15,297.49,2024-04-21,2024-04-26,Credit Card,Shipped
+ORD-1048,CUST-242,Olivia Chen,olivia.chen@email.com,+1-555-0142,North America,USA,Beauty,Nail Art Kit,1,24.99,0,24.99,2024-04-22,2024-04-27,PayPal,Delivered
+ORD-1049,CUST-219,Samuel Johnson,samuel.j@email.com,+1-555-0119,North America,USA,Sports,Treadmill,1,799.99,5,759.99,2024-04-24,2024-05-01,Credit Card,Delivered
+ORD-1050,CUST-243,Paula Costa,paula.c@email.com,+351-21-5550143,Europe,Portugal,Clothing,Summer Dress,3,35.00,0,105.00,2024-04-26,2024-05-01,Credit Card,Delivered
