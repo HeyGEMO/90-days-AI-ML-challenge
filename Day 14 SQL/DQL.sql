@@ -27,3 +27,15 @@ values
 (2,"bob",30000),
 (3,"casey",40000);
 select * from employee;
+
+create table temp1(
+id int,
+name varchar(50),
+age int,
+primary key (id,name));
+
+create table emp(
+id int,
+salary int default 25000);
+insert into emp(id) values (1);
+select * from emp;
