@@ -57,3 +57,24 @@ insert into student(rollno,name,marks,grade,city) values
 (105,'dipin',92,'A','ktm'),
 (106,'prazwol',82,'B','ktm');
 select * from student;
+select rollno,name from student;
+select city from student;
+select distinct city from student;
+select * from student where marks >80;
+select * from student where city='ktm';
+select * from student where marks >80 and city ='ktm';
+select * from student where marks +10>100;
+select * from student where marks between 80 and 85;
+select * from student where city in('ktm','butwal');
+select * from student where city not in('ktm');
+select * from student limit 3;
+select * from student where marks>80 limit 3;
+select * from student order by marks asc;
+select * from student order by marks desc limit 3;
+#aggrigate function
+select max(marks) from student;
+select avg(marks) from student;
+select min(marks) from student;
+select sum(marks) from student;
+select count(name) from student;
+
