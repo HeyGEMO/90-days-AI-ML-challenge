@@ -47,3 +47,12 @@ where grade='A'
 group by address 
 having max(marks)>=90 
 order by address asc;
+set sql_safe_updates=0;
+update student set grade='A' where marks between 90 and 100;
+update student set grade='A-' where marks between 80 and 90;
+update student set grade='B+' where marks between 70 and 80;
+update student set grade='O' where grade='A';
+select * from student;
+insert into student values(108,'andu ram','gendu',23,'F');
+#delete -> delete existing rows
+delete from student where marks < 40;
